@@ -1,4 +1,4 @@
-# SE419-Big-Data
+# SE419 Big Data
 
 Data is the new oil. Every day, your organization generates new
 data on your customers, your processes, and your industry. In fact, 90 percent of the data in
